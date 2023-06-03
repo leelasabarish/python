@@ -1,0 +1,11 @@
+dictionary  is set of key/value pairs
+diff between set and dictionary are if we pass inside the { then it is set if it is empty{} or keys and  values
+eg:- dict{key,value}then it is called as dictionary
+dictionary is all about key value combinations
+keys must be unique
+value can have duplicates but not the keys
+key act like as index immutable type
+key value can be
+p{strings,numbers or tuple}
+if p has any duplicates it don't act as dictionary
+if u want to access the indexing u must need list

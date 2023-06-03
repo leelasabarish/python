@@ -1,0 +1,21 @@
+class that inherits all the methods and properties from another class
+
+single inheritance
+only one parent and one child are there
+
+multiple inheritance
+2 parents to only one child inheritance
+
+multi-level inheritance
+parent to child to child1 inheritance
+
+hierarchical inheritance
+only one parent and 2 child's
+
+Hybrid inheritance
+eg:-
+Here father class act as parent1
+mother class act act as child class to father class
+but child class act as a child to both father and mother class(mother class act as parent2 to child but not father class)
+
+

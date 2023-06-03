@@ -1,0 +1,9 @@
+access modifiers inheritance
+
+data encapsulation
+it a protective  cover protect class,methods,variables and accessing and modification
+public access modifier u can access and modification in any where in the program
+protected access modifier u can access but u can not update/modification. in python single_
+private access modifier u can not access only inside of the class u can access and modify. in python double__
+
+

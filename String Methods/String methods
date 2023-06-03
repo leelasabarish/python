@@ -1,0 +1,17 @@
+isalnum(): Checks if all characters in a string are alphanumeric (letters or digits).
+isalpha(): Checks if all characters in a string are alphabetic (letters).
+capitalize(): Converts the first character of a string to uppercase and the rest to lowercase.
+casefold(): Returns a lowercase version of the string. Similar to lower(), but it's more aggressive in converting characters to lowercase.
+count(sub[, start[, end]]): Returns the number of occurrences of a substring within a string.
+isdigit(): Checks if all characters in a string are digits.
+endswith(suffix[, start[, end]]): Checks if a string ends with a specified suffix.
+len(): Returns the length (number of characters) of a string.
+lower(): Converts all characters in a string to lowercase.
+maketrans(): Returns a translation table that can be used by the translate() method to perform the desired character replacements.
+isprintable(): checks whether all the characters in a string are printable or not.
+replace(old, new[, count]): Replaces occurrences of a substring with another substring.
+split([sep[, maxsplit]]): Splits a string into a list of substrings based on a specified separator (default is whitespace).
+startswith(prefix[, start[, end]]): Checks if a string starts with a specified prefix.
+swapcase(): Swaps the case of characters in a string (uppercase becomes lowercase and vice versa).
+title(): Converts a string to titlecase (the first character of each word is uppercase).
+upper(): Converts all characters in a string to uppercase.

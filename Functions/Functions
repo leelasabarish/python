@@ -1,0 +1,22 @@
+function is also called as named method /generalization of code
+  the  function  have global scope
+  in that function process it is local scope
+  eg:-
+          a,b  are perameters
+  def add(a,b):----->global scope
+    res=a+b ----->local scope
+    print(res)
+    return res
+tup=add(10,10)----->arguments
+print(tup)
+
+
+  u dont have function to function  integrity ---->dis adv
+  def is use to define a function
+  function will work when we call the function only
+  function are independent and individual
+
+
+in python we can write both print and return.
+return function will take the input where it called.
+return is also knows as calling function.

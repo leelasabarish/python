@@ -7,5 +7,11 @@ while i < 6:
     continue
   print(i)
 
+print("*** continue ***")
+for i in range(3,7):
+    if i==5:
+        continue
+    else:
+        print(i)
 
 

@@ -10,4 +10,11 @@ if(a<b):
 else:
     print("b<a")
 
+print("*** pass ***")
+for i in range(3,7):
+    if i==5:
+        pass
+    else:
+        print(i)
+
 

@@ -12,3 +12,9 @@ while j < 4:# testing
   j += 1 # incrementing
   print(j)
 
+print("*** while loop ****")
+i=0
+while i<=3:# 0,1,2,3
+    print(i)
+    i+=1
+print("loop ends")
